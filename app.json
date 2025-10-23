@@ -1,8 +1,8 @@
 {
-  "name": "SHABAN-MD",
-  "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
+  "name": "_❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_",
+  "description": "Javascript WhatsApp bot made by _❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_",
   "logo": "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg",
-  "keywords": ["SHABAN-MD"],
+  "keywords": ["_❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -15,13 +15,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name",
       "required": false,
-      "value": "Mʀ-Sʜᴀʙᴀɴ"
+      "value": "_❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_"
     }, 
 
     "OWNER_NUMBER": {
       "description": "Put Your WhatsApp Number Link Device",
       "required": false,
-      "value": "923059395959"
+      "value": "918535993963"
     }, 
     
     "MENU_IMAGE_URL": {
@@ -39,7 +39,7 @@
     "MODE": {
       "description": "Select Your Bot Work Type Public-Private-Inbox-Group",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     
     "ALWAYS_ONLINE": {
@@ -75,13 +75,13 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW Sʜᴀʙᴀɴ-Mᴅ 𓅓*"
+      "value": "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT Nᴏw _❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_ 𓅓*"
     }, 
 
     "BOT_NAME": {
       "description": "Type Here The Bot Name",
       "required": false,
-      "value": "SHABAN-MD V5"
+      "value": "_❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_"
     },
     
     "ANTI_LINK": {
